@@ -1,5 +1,5 @@
 # Loading COVID-19 Data to Google Sheet
----
+
 
 In this project, we read COVID-19 coronavirus data available from [World Health Organization](https://covid19.who.int/) and load it into Google Sheet, where this is one of the data sources used for a [data visualisation work](https://public.tableau.com/profile/peggy.chang#!/vizhome/COVID-19Updates_16082983614350/S1) created for COVID-19 updates on **Tableau Public**.
 
@@ -20,4 +20,4 @@ Before running the codes, we first need to go to [Google Developer Console](http
 
 We will also need to share the specific Google Sheet with the service account email address.
 
-[Click here to view the details in this notebook](Project_WHO_GoogleSheet.ipynb).
+**[Click here to view the details in this notebook](Project_WHO_GoogleSheet.ipynb).**
